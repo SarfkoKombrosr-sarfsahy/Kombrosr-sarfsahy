@@ -1,1 +1,3 @@
-https://ahmedabdelhalima7-glitch.github.io/Kombrosr-sarfsahy/sitemap.xml
+ User-agent: *
+Allow: /
+Sitemap: https://sarfkokombrosr-sarfsahy.github.io/Kombrosr-sarfsahy/sitemap.xml
